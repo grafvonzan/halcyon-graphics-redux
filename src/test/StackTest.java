@@ -7,7 +7,7 @@ import org.junit.Test;
 public class StackTest {
 
     @Before
-    public void setUp() throws Exception {
+    public void setUp() {
     }
 
 
